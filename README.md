@@ -1,9 +1,8 @@
 # Python Reverse shell
 # my email rianprastio303@gmail.com
 # Create by Rian
-# warning dont do illegal stuff
 
-// How to Use
+# How to Use
 # 1.first thing install python3 
 // apt-get install python3
 # 2.fire up server.py first
